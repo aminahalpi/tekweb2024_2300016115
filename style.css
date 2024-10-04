@@ -1,0 +1,10 @@
+.avatar {
+    border-radius: 50%;
+
+}
+.avatar img {
+    width: 30%;
+    height: auto;
+    border-radius: 50%;
+    height: 50%;
+}
